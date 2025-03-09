@@ -12,7 +12,7 @@ This repository is heavily inspired by [ResShift](https://github.com/zsyOAOA/Res
 
 2. **VQ-VAE Model for Cell Painting Data**  
    - We trained an additional VQ-VAE model specifically for the five-channel Cell Painting dataset.  
-   - Checkpoints can be found at: **[insert link]**.  
+   - Checkpoints can be found at: **[this google drive](https://drive.google.com/file/d/1sM4lrYdxCjaOLMkADkPKgR0urFI6hERZ/view?usp=sharing)**.  
    - However, based on our experiments, we recommend skipping the VQ-VAE step and using a **512×512 resolution** instead.  
 
 3. **New Configuration Files**  
@@ -31,7 +31,7 @@ Our paper makes three major contributions:
 
 3. **State-of-the-Art Performance**  
    - This implementation achieves the best performance in our comparisons.  
-   - Checkpoints can be found at: **[insert link]**.  
+   - Checkpoints can be found at: **[this google drive](https://drive.google.com/file/d/1sM4lrYdxCjaOLMkADkPKgR0urFI6hERZ/view?usp=sharing)**. 
 
 
 ## How to Use  
